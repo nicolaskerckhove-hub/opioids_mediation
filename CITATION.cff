@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+
+title: CAPS Opioids Analysis
+
+authors:
+  - family-names: Kerckhove
+    given-names: Nicolas
+
+version: 1.0.0
+
+license: MIT
+
+message: "If you use this code, please cite the associated publication."
